@@ -14,7 +14,7 @@
 
 @supports not (-ms-high-contrast: none) {
     #wp-admin-bar-wpfc-toolbar-parent > .ab-empty-item::before{
-    	content: url("/https://tbowner.github.io/TokenBlast.io/wp-content/plugins/wp-fastest-cache/images/icon.svg");
+    	content: url("https://tbowner.github.io/TokenBlast.io/wp-content/plugins/wp-fastest-cache/images/icon.svg");
     }
 }
 
